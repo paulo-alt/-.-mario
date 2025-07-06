@@ -1,2 +1,2 @@
 $ ./mario
-Activity of Harvard Cs50 course
+Activity of Harvard CC50 course
